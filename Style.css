@@ -1,11 +1,17 @@
 #header{
-    height: 28%;
+    flex-grow: 1;
 }
 #body{
-    height: 50%;
+    flex-grow: 4;
 }
 #footer{
-    height: 20%;
+    flex-grow: 1;
+}
+#menu{
+    flex-grow: 2;
+}
+#content{
+    flex-grow: 8;
 }
 .title{
     width: 100%;
@@ -22,13 +28,18 @@ div{
     justify-content: space-evenly;
     text-align: center;
     border: solid black;
-
 }
 input{
     border: solid black;
     text-align: center;
     width: 100%;
     margin-bottom: 5px;
+}
+body{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+
 }
 
 

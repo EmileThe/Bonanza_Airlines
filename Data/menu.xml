@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Links>
+    <Link>
+        <NameFr>Bon mème!</NameFr>
+        <NameEn>Nice meme!</NameEn>
+        <URL>https://niceme.me/</URL>
+    </Link>
+    <Link>
+        <NameFr>Bon site de mème!</NameFr>
+        <NameEn>Nice meme website!</NameEn>
+        <URL>http://nicememe.website/</URL>
+    </Link>
+</Links>
